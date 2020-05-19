@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<keycloak.version>9.0.0</keycloak.version>
+		<keycloak.version>9.0.2</keycloak.version>
 	</properties>
 
 	<repositories>
